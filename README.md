@@ -16,9 +16,9 @@ I will more be like the Product manager, but I will also contribute to the Proje
 
 ### Source control: Github organization
 
-### Frontend: React / Angular (I recommand React more. Why? It's the most popular framework atm, and it can also build Android & ios Apps)
+### Frontend: React (I recommand React more. Why? It's the most popular framework atm, and it can also build Android & ios Apps)
 
-### Backend: Spring / JavaScript
+### Backend: JavaScript
 
 ### Database: Any
 
@@ -38,9 +38,7 @@ I will more be like the Product manager, but I will also contribute to the Proje
 
 # Layout?
 
-Left side screen: Right side screen
-question IDE for student to code
-
+Left side screen:
 question description
 
 question input
@@ -50,3 +48,6 @@ why output like this?
 question input
 question output
 why output like this?
+
+Right side screen
+question IDE for student to code
