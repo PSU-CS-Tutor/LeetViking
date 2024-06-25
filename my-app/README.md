@@ -1,52 +1,70 @@
-Is this deadly serious? Nah, take your time.
+# Getting Started with Create React App
 
-# Project requirement
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Here's the requirement I want for this Project so far, I am just laying out the big picture, for the real implementation is really depend on you:
+## Available Scripts
 
-# What's your role?
+In the project directory, you can run:
 
-Working with folks to create a Leetcode-like Online Judge system, to have a way to provide easy to access system for practicing Karla's proficiency demo.
+### `npm start`
 
-### What's my role?
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-I will more be like the Product manager, but I will also contribute to the Project.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-# Tech Stack (Work in progress)
+### `npm test`
 
-### Source control: Github organization
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Frontend: React / Angular (I recommand React more. Why? It's the most popular framework atm, and it can also build Android & ios Apps)
+### `npm run build`
 
-### Backend: Spring / JavaScript
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### Database: Any
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### OAuth: Yes, Google for convenient
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Hosting: Either Firebase or GCP, we can get coupon from School I believe
+### `npm run eject`
 
-### Coding environment: You decide
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Backend compiler: Yes, we need some class written, so the student can plug in their solution. They only need to write a function that is in this class. We should have the .h and .cpp ready in the back including the display(), build(), and the class ready
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Outcome?
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Something like [NeetCode](https://neetcode.io/)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Instead of having solution section, I want it to be a place to put a video of us solving the problem instead of giving out real code.
+## Learn More
 
-# Layout?
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Left side screen: Right side screen
-question IDE for student to code
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-question description
+### Code Splitting
 
-question input
-question output
-why output like this?
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-question input
-question output
-why output like this?
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
