@@ -16,7 +16,11 @@ I will more be like the Product manager, but I will also contribute to the Proje
 
 ### Source control: Github organization
 
-### Frontend: React (I recommand React more. Why? It's the most popular framework atm, and it can also build Android & ios Apps)
+### Frontend:
+
+    React (I recommand React more. Why? It's the most popular framework atm, and it can also build Android & ios Apps)
+
+    Material UI (Beacause I am lazy and programmer are lazy, they are ready to use)
 
 ### Backend: JavaScript
 
